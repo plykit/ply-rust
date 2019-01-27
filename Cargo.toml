@@ -1,0 +1,10 @@
+[package]
+name = "ply"
+version = "0.1.0"
+authors = ["Jan Algermissen <algermissen@acm.org>"]
+edition = "2018"
+
+[dependencies]
+serde = "1"
+serde_json = "1"
+serde_derive = "1"
