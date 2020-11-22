@@ -1,6 +1,6 @@
 [package]
 name = "ply"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jan Algermissen <algermissen@acm.org>"]
 edition = "2018"
 
