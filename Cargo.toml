@@ -1,8 +1,20 @@
 [package]
 name = "ply"
 version = "0.1.1"
-authors = ["Jan Algermissen <algermissen@acm.org>"]
+authors = ["Jan Algermissen <jan.algermissen@tc1.io>"]
 edition = "2018"
+license = "Apache-2.0"
+
+documentation = "https://docs.rs/ply/0.1.1"
+repository = "https://github.com/plykit/ply-rust"
+homepage = "https://github.com/plykit/ply-rust"
+description = """
+Implementation of ply specification.
+"""
+readme = "../README.md"
+categories = ["cloud"]
+keywords = ["ply"]
+
 
 [dependencies]
 serde = "1"
