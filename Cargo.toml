@@ -1,7 +1,7 @@
 [package]
 name = "ply"
 version = "0.1.1"
-authors = ["Jan Algermissen <jan.algermissen@tc1.io>"]
+authors = ["Jan Algermissen <algermissen@acm.org>"]
 edition = "2018"
 license = "Apache-2.0"
 
