@@ -1,11 +1,11 @@
 [package]
-name = "ply"
+name = "plykit"
 version = "0.1.1"
 authors = ["Jan Algermissen <algermissen@acm.org>"]
 edition = "2018"
 license = "Apache-2.0"
 
-documentation = "https://docs.rs/ply/0.1.1"
+documentation = "https://docs.rs/plykit/0.1.1"
 repository = "https://github.com/plykit/ply-rust"
 homepage = "https://github.com/plykit/ply-rust"
 description = """
