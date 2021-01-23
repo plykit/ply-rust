@@ -11,9 +11,3 @@ pub struct Element {
     #[serde(default)]
     pub description: String,
 }
-
-#[derive(Serialize, Deserialize, Clone, Debug, Default)]
-pub struct Assembly {
-    pub name: String,
-    pub description: String,
-}
