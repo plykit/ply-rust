@@ -1,7 +1,7 @@
 /// Implements the standardized payload format for
-/// ply elements.
+/// ply nodes.
 #[derive(Serialize, Deserialize, Clone, Debug, Default)]
-pub struct Element {
+pub struct Node {
     /// Globally unique ID of this element
     pub id: String,
     /// Display name
